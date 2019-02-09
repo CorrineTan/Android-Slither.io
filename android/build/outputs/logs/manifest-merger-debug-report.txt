@@ -1,0 +1,282 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.support:design:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2eb0167fdb162300ee6c0319e1f4c264/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-share:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-share-4.39.0.aar/977491a7a7523c4939508aa7cd14cbb6/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0601a880a4f792ca55b8a7302fc4bd15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tantan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6a966bc8046248a1ce725e06c2891dff/AndroidManifest.xml:2:1-11:12
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:21:1-40:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/04fe2b8ced376babb9256b0c3c4f80dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fabf9493e1fd9831f77bb30ef3fe6352/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0917ccf90a75d7c717c9ab2083d608a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0b6b5515a070abeaa310286b02e58cba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33cd1f00bb6ce7c790dd5503d045f64c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a0a0ed435a1d900bd442e287afaca932/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/tantan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a65912df0f630edf70b4d66bc36a79ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/tantan/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/17956e8fa2d2b1cefba8ea3aaf3c05e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3171352beaf2bcc9af7027e0ee0aeb90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/049b53978a02b99d4303ac0c6c5fe002/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/624970d0812f1c38007a984df2d75d23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18d10d5c1ab6d597e53e612317fb17d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d076dbd033295168fc82140ef74e9aa0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a1e42cc9bcf2ce5b32a3ae5d893ad0bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/823853879ffd6b6e116b80bca3961a97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3ebc691599288129f31952095690b731/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:1-67:12
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:10:22-77
+application
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:12:5-65:19
+MERGED from [com.facebook.android:facebook-share:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-share-4.39.0.aar/977491a7a7523c4939508aa7cd14cbb6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-share-4.39.0.aar/977491a7a7523c4939508aa7cd14cbb6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tantan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6a966bc8046248a1ce725e06c2891dff/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tantan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6a966bc8046248a1ce725e06c2891dff/AndroidManifest.xml:9:5-20
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:28:5-38:19
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:28:5-38:19
+MERGED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:28:5-51:19
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-share:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-share-4.39.0.aar/977491a7a7523c4939508aa7cd14cbb6/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:16:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:18:9-20:55
+	android:value
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:19:13-58
+activity#com.packt.snake.Welcome_Activity
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:24:13-50
+	android:theme
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:23:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:29:27-74
+activity#com.packt.snake.AndroidLauncher
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:32:9-36:53
+	android:screenOrientation
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:36:13-50
+	android:label
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:35:13-45
+	android:configChanges
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:34:13-107
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:33:13-44
+activity#com.packt.snake.Score_Activity
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:37:9-52:20
+	android:screenOrientation
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:39:13-50
+	android:theme
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:38:13-43
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:slither.io+data:pathPrefix:/receipe+data:scheme:http
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:41:13-51:29
+action#android.intent.action.VIEW
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:42:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:44:17-76
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:44:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:45:17-78
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:45:27-75
+data
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:47:17-50:53
+	android:host
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:49:21-46
+	android:scheme
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:48:21-42
+	android:pathPrefix
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:50:21-50
+activity#com.packt.snake.Setting_Activity
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:53:9-56:47
+	android:screenOrientation
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:55:13-50
+	android:theme
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:54:13-45
+activity#com.packt.snake.AdvertiseActivity
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:57:9-59:62
+	android:theme
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:59:13-50
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:58:13-46
+provider#com.facebook.FacebookContentProvider
+ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:61:9-64:39
+	android:authorities
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:62:13-91
+	android:exported
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:64:13-36
+	android:name
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml:63:13-64
+uses-sdk
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2eb0167fdb162300ee6c0319e1f4c264/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/2eb0167fdb162300ee6c0319e1f4c264/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-share:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-share-4.39.0.aar/977491a7a7523c4939508aa7cd14cbb6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-share-4.39.0.aar/977491a7a7523c4939508aa7cd14cbb6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0601a880a4f792ca55b8a7302fc4bd15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/0601a880a4f792ca55b8a7302fc4bd15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tantan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6a966bc8046248a1ce725e06c2891dff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/tantan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/6a966bc8046248a1ce725e06c2891dff/AndroidManifest.xml:5:5-7:41
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:24:5-26:41
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/04fe2b8ced376babb9256b0c3c4f80dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/04fe2b8ced376babb9256b0c3c4f80dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fabf9493e1fd9831f77bb30ef3fe6352/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/fabf9493e1fd9831f77bb30ef3fe6352/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0917ccf90a75d7c717c9ab2083d608a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/0917ccf90a75d7c717c9ab2083d608a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0b6b5515a070abeaa310286b02e58cba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0b6b5515a070abeaa310286b02e58cba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33cd1f00bb6ce7c790dd5503d045f64c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/33cd1f00bb6ce7c790dd5503d045f64c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a0a0ed435a1d900bd442e287afaca932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a0a0ed435a1d900bd442e287afaca932/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/tantan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a65912df0f630edf70b4d66bc36a79ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/tantan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a65912df0f630edf70b4d66bc36a79ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/tantan/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/17956e8fa2d2b1cefba8ea3aaf3c05e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/tantan/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/17956e8fa2d2b1cefba8ea3aaf3c05e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3171352beaf2bcc9af7027e0ee0aeb90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3171352beaf2bcc9af7027e0ee0aeb90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/049b53978a02b99d4303ac0c6c5fe002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/049b53978a02b99d4303ac0c6c5fe002/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/624970d0812f1c38007a984df2d75d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/624970d0812f1c38007a984df2d75d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18d10d5c1ab6d597e53e612317fb17d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/tantan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/18d10d5c1ab6d597e53e612317fb17d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d076dbd033295168fc82140ef74e9aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d076dbd033295168fc82140ef74e9aa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a1e42cc9bcf2ce5b32a3ae5d893ad0bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a1e42cc9bcf2ce5b32a3ae5d893ad0bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/823853879ffd6b6e116b80bca3961a97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/823853879ffd6b6e116b80bca3961a97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3ebc691599288129f31952095690b731/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3ebc691599288129f31952095690b731/AndroidManifest.xml:20:5-44
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		ADDED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+		INJECTED from /Users/tantan/Documents/GitHub/SnakeGame2/android/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:29:9-32:66
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:29:9-32:66
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:33:9-71
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:37:9-71
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:34:9-67
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:33:9-36:20
+MERGED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [:facebook-android-sdk-4.16.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.16.0.aar/efae5bb1f3ff9c6d20c6cd3e5e1ca1d3/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-common-4.39.0.aar/344419eb9a2a38119f8bdb46db163f36/AndroidManifest.xml:34:19-64
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.39.0] /Users/tantan/.gradle/caches/transforms-1/files-1.1/facebook-core-4.39.0.aar/9143318811f7cd109fa757157c434918/AndroidManifest.xml:48:25-92

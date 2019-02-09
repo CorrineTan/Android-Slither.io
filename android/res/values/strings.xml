@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">snake-game</string>
+    <string name="gameover_text">Oops! Game Over</string>
+    <string name="facebook_app_id">2203741116529889</string>
+    <string name="facebook_login_scheme">fb2203741116529889</string>
+
+</resources>

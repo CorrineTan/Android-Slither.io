@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":desktop" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":desktop" />
+      </configuration>
+    </facet>
+    <facet type="java-gradle" name="Java-Gradle">
+      <configuration>
+        <option name="BUILD_FOLDER_PATH" value="$MODULE_DIR$/build" />
+        <option name="BUILDABLE" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6">
+    <output url="file://$MODULE_DIR$/build/classes/java/main" />
+    <output-test url="file://$MODULE_DIR$/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="core" exported="" />
+    <orderEntry type="library" exported="" name="gdx-backend-lwjgl-1.9.8" level="project" />
+    <orderEntry type="library" exported="" name="gdx-platform-1.9.8-natives-desktop" level="project" />
+    <orderEntry type="library" exported="" name="gdx-box2d-platform-1.9.8-natives-desktop" level="project" />
+    <orderEntry type="library" exported="" name="gdx-1.9.8" level="project" />
+    <orderEntry type="library" exported="" name="lwjgl_util-2.9.2" level="project" />
+    <orderEntry type="library" exported="" name="lwjgl-2.9.2" level="project" />
+    <orderEntry type="library" exported="" name="jlayer-1.0.1-gdx" level="project" />
+    <orderEntry type="library" exported="" name="jorbis-0.0.17" level="project" />
+    <orderEntry type="library" exported="" name="lwjgl-platform-2.9.2-natives-windows" level="project" />
+    <orderEntry type="library" exported="" name="lwjgl-platform-2.9.2-natives-linux" level="project" />
+    <orderEntry type="library" exported="" name="lwjgl-platform-2.9.2-natives-osx" level="project" />
+    <orderEntry type="library" exported="" name="jinput-2.0.5" level="project" />
+    <orderEntry type="library" exported="" name="jutils-1.0.0" level="project" />
+    <orderEntry type="library" exported="" name="jinput-platform-2.0.5-natives-linux" level="project" />
+    <orderEntry type="library" exported="" name="jinput-platform-2.0.5-natives-windows" level="project" />
+    <orderEntry type="library" exported="" name="jinput-platform-2.0.5-natives-osx" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="gdx-box2d-1.9.8" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="json-20180813" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="picasso-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="facebook-share-4.37.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="facebook-common-4.37.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="facebook-core-4.37.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="bolts-android-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-v4-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="appcompat-v7-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-fragment-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-core-utils-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="cardview-v7-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="customtabs-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-media-compat-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="animated-vector-drawable-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-core-ui-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-vector-drawable-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-compat-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="support-annotations-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="core-3.3.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="bolts-applinks-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="bolts-tasks-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="runtime-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="common-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="common-1.0.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="gdx-box2d-1.9.8" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="json-20180813" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="picasso-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="facebook-share-4.37.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="facebook-common-4.37.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="facebook-core-4.37.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="bolts-android-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-v4-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="appcompat-v7-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-fragment-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-core-utils-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="cardview-v7-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="customtabs-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-media-compat-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="animated-vector-drawable-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-core-ui-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-vector-drawable-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-compat-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="support-annotations-27.0.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="core-3.3.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="bolts-applinks-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="bolts-tasks-1.4.0" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="runtime-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="common-1.0.3" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="common-1.0.0" level="project" />
+  </component>
+</module>

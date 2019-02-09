@@ -1,0 +1,4 @@
+#Wed Jan 16 15:41:21 AEDT 2019
+base.0=/Users/tantan/Documents/GitHub/SnakeGame2/android/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
